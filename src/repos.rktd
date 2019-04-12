@@ -1,12 +1,11 @@
 (
+RenaissanceBug/racket-cookies
 jeapostrophe/racket-cheat
-racket/racket
 racket/2d
 racket/algol60
 racket/cext-lib
 racket/class-iop
 racket/compatibility
-racket/compiler
 racket/contract-profile
 racket/data
 racket/datalog
@@ -38,10 +37,9 @@ racket/math
 racket/mysterx
 racket/mzcom
 racket/mzscheme
-racket/net
 racket/option-contract
 racket/parser-tools
-racket/pconvert-lib
+racket/pconvert
 racket/pict
 racket/pict-snip
 racket/picturing-programs
@@ -53,6 +51,7 @@ racket/preprocessor
 racket/profile
 racket/r5rs
 racket/r6rs
+racket/racket
 racket/racklog
 racket/rackunit
 racket/readline

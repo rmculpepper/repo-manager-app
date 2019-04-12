@@ -9,7 +9,6 @@
  (mflatt
   racket/algol60
   racket/cext-lib
-  racket/compiler
   racket/draw
   racket/ds-store
   racket/errortrace
@@ -19,7 +18,6 @@
   racket/mysterx
   racket/mzcom
   racket/mzscheme
-  racket/net
   racket/parser-tools
   racket/r5rs
   racket/r6rs
@@ -37,12 +35,12 @@
   racket/drracket
   racket/games
   racket/htdp
-  racket/pconvert-lib
   racket/pict
   racket/pict-snip
   racket/planet
   racket/redex
   racket/string-constants
+  racket/pconvert
   )
  (samth
   racket/typed-racket
@@ -79,6 +77,7 @@
   racket/swindle
   racket/unix-socket
   racket/xrepl
+  RenaissanceBug/racket-cookies
   )
  (stamourv
   racket/contract-profile
