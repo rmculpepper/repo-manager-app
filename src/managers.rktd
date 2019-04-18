@@ -47,9 +47,8 @@
  (samth
   racket/typed-racket
   )
- (stamourv
+ (clements
   racket/compatibility
-  racket/contract-profile
   racket/deinprogramm
   racket/distributed-places
   racket/distro-build
@@ -69,7 +68,6 @@
   racket/plot
   racket/plt-web
   racket/preprocessor
-  racket/profile
   racket/racket
   racket/realm
   racket/remote-shell
@@ -81,6 +79,10 @@
   racket/swindle
   racket/unix-socket
   racket/xrepl
+  )
+ (stamourv
+  racket/contract-profile
+  racket/profile
   stamourv/optimization-coach
   )
  (ryanc
