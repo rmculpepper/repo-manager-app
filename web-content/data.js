@@ -406,7 +406,7 @@ function augment_commit_info(index, info, repo_info) {
 function commit_needs_attention(ci) {
     if (/Post-release version for the v[0-9.]* release/.test(ci.message)) return false;
     if (/Merge pull request/.test(ci.message)) return false;
-    return /merge|release/i.test(ci.message);
+    return /merge|release|history/i.test(ci.message);
 }
 
 function make_repo_id(owner, repo) {
