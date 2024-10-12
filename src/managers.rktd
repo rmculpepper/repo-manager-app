@@ -19,10 +19,10 @@
   racket/mzcom
   racket/mzscheme
   racket/parser-tools
-  racket/rhombus
   racket/r5rs
   racket/r6rs
   racket/readline
+  racket/rhombus
   racket/scheme-lib
   racket/scribble
   racket/slideshow
