@@ -52,6 +52,7 @@ racket/plot
 racket/plt-web
 racket/preprocessor
 racket/profile
+racket/rhombus
 racket/r5rs
 racket/r6rs
 racket/racket
