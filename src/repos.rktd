@@ -61,7 +61,6 @@ racket/readline
 racket/realm
 racket/redex
 racket/remote-shell
-racket/rhombus
 racket/sasl
 racket/scheme-lib
 racket/scribble
