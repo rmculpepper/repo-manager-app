@@ -156,5 +156,5 @@
 ;; ========================================
 
 (module+ main
-  (eprintf "Updating\n")
+  (printf "Updating\n")
   (update))

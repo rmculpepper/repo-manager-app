@@ -6,7 +6,7 @@
          "github-base.rkt")
 (provide (all-defined-out))
 
-(define loud? #t)
+(define loud? #f)
 
 (define (gh-endpoint . args)
   (string-join (cons "https://api.github.com" args) "/"))
