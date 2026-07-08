@@ -22,6 +22,7 @@
   racket/r5rs
   racket/r6rs
   racket/readline
+  racket/raco-cross
   racket/scheme-lib
   racket/scribble
   racket/slideshow
