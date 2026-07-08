@@ -57,6 +57,7 @@ racket/r6rs
 racket/racket
 racket/racklog
 racket/rackunit
+racket/raco-cross
 racket/readline
 racket/realm
 racket/redex
